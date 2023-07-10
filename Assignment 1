@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="John Doe">
+    <meta name="description" content="INTRODUCTION OF HTML">
+    <title>First Website</title>
+   <style>table, th, td {
+    border: 2px solid yellow; background-color: lightpink;
+  }</style> 
+</head>
+
+<!-- THIS IS THE CONTENT STARTING POINT -->
+<body>
+<abbr title="">Assignment 1 - Bake Cake</abbr>
+<h1 title="this is a heading-largest heading">Assignment 1 - How to Bake a Cake</h1>
+<p title="title example">First you'll have to choose a recipe. You can keep it simple with a yellow cake (pictured above), or you can choose a slightly showier recipe, like a chocolate devil's food cake or a vibrant red velvet cake.If you're not a fan of the traditional frostings, try a German chocolate cake. We also have a few birthday cake recipes for celebratory occasions. The possibilities are almost endless, and these directions will help you make them all, but angel food, pound cakes, sponge cakes, and chiffon cakes require different methods, so read up on those separately.</p>
+
+
+<a href="https://www.cakemaker.com/bananabread">This is a link to Banana Bread recipe</a></p>
+
+<img src="bananabread4.jpg" alt="">
+
+<i>
+  <address>
+    Written by <a href="mailto:cakemaker@bakerbaker.com">Betty Hines</a>.<br> 
+    Visit us at:<br>
+    <a href="https://www.cakemaker.com">cakemaker.com</a><br>
+    Fifth Avenue, New York<br>
+    USA
+    </address>
+</i>
+
+
+
+
+<table style="width: 500px;"> 
+  <tr>
+    <th>Cake</th> <th>Name</th> <th>Date</th>
+  </tr>
+  <tr>
+    <td>Red Velvet</td>   <td>Maria</td> <td>7/1/2023</td>
+  </tr>
+  <tr>
+    <td>Lemon</td>    <td>Jake</td> <td>7/3/2023</td>
+  </tr>
+  <tr>
+    <td>Birthday cake</td>    <td>TIm</td> <td>7/5/2023</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
